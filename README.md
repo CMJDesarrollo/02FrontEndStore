@@ -1,4 +1,4 @@
-# Página simple (responsiva)
+# FrontEnd de Tienda virtual (responsiva)
 Este es un ejemplo del FrontEnd de una tienda en línea
 
 ## Introduction
