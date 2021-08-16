@@ -10,7 +10,7 @@ El sitio cuenta con un título principal, una barra de navegación, una lista de
 
 Por parte de CSS se utilizaron grids para el acomodo de los productos y de todos los elementos del proyecto.
 
-[Vista previa](img/preview.png)
+[Vista previa]
 
 ## Tecnologías
 
