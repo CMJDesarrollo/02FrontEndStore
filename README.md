@@ -29,3 +29,4 @@ GNU GENERAL PUBLIC LICENSE
    
    [Normalize]: <https://necolas.github.io/normalize.css/>
    [Google Fonts]: <https://fonts.google.com/>
+   [Vista previa]: <https://cmjdesarrollo.github.io/02FrontEndStore/>
